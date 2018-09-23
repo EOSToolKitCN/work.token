@@ -7,7 +7,7 @@ This token uses the standard eosio.token contract with two modifications.
 
 Everyone feel free to signup for the "Free airdrop test" of the work token
 
-You can go this at https://eostoolkit.vip/airgrab
+You can go this at http://eostoolkit.vip
 
 ### To signup for an airdrop:
 `cleos push action work work token signup '{"owner":"iwanttokens1","quantity":"0.0000 WORK"}' -p iwanttokens1@active`
